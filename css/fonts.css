@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'DBHelvethaicaXLi';
+    src: url('../fonts/DBHelvethaicaX-Li.eot');
+    src: url('../fonts/DBHelvethaicaX-Li.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DBHelvethaicaX-Li.woff2') format('woff2'),
+        url('../fonts/DBHelvethaicaX-Li.woff') format('woff'),
+        url('../fonts/DBHelvethaicaX-Li.ttf') format('truetype'),
+        url('../fonts/DBHelvethaicaX-Li.svg#DBHelvethaicaX-Li') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+/*@font-face {
+    font-family: 'DBHelvethaicaXCond';
+    src: url('../fonts/DBHelvethaicaX-BdCond.eot');
+    src: url('../fonts/DBHelvethaicaX-BdCond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DBHelvethaicaX-BdCond.woff2') format('woff2'),
+        url('../fonts/DBHelvethaicaX-BdCond.woff') format('woff'),
+        url('../fonts/DBHelvethaicaX-BdCond.ttf') format('truetype'),
+        url('../fonts/DBHelvethaicaX-BdCond.svg#DBHelvethaicaX-BdCond') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}*/
+
+
+@font-face {
+    font-family: 'DBHelvethaicaXMed';
+    src: url('../fonts/DBHelvethaicaX-Med.eot');
+    src: url('../fonts/DBHelvethaicaX-Med.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DBHelvethaicaX-Med.woff2') format('woff2'),
+        url('../fonts/DBHelvethaicaX-Med.woff') format('woff'),
+        url('../fonts/DBHelvethaicaX-Med.ttf') format('truetype'),
+        url('../fonts/DBHelvethaicaX-Med.svg#DBHelvethaicaX-Med') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
